@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: "Only those who have flown, know why the birds sing..."
 - 📫 How to reach me:
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloabmartins)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloabmartins)](https://www.linkedin.com/in/marceloabmartins)
 <hr>
 
 ### Skills:
